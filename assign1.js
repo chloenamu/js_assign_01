@@ -1,0 +1,10 @@
+let myArr = []
+myArr.push(3)
+console.log(myArr)
+myArr.unshift(1)
+console.log(myArr)
+myArr.push(5)
+console.log(myArr)
+myArr.pop()
+myArr.shift()
+console.log(myArr)
